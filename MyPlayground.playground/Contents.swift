@@ -7,3 +7,11 @@ let otherMessage: String = "The other total price is $\(cost)"
 
 print(message)
 print(otherMessage)
+
+let wakeUpTime: Int = 8
+
+if wakeUpTime == 6 {
+    print("Cool good job lol")
+} else {
+    print("Wow lmao enjoy eating beef jerky for breakfast idiot lol")
+}
