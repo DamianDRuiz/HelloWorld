@@ -13,8 +13,9 @@ let wakeUpTime: Int = 8
 if wakeUpTime == 6 {
     print("Cool good job lol")
 } else if wakeUpTime == 7 {
-    print("Welp make some toast or whateve??") 
+    print("Welp make some toast or whateve??")
 } else {
     print("Wow lmao enjoy eating beef jerky for breakfast idiot lol")
 }
 
+//Commenting something!
